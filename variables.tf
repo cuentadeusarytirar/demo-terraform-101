@@ -4,7 +4,7 @@ variable "identity" {
 
 variable "ami" {
   description = "The Amazon Machine Image for new instances."
-  default     = "ami-c62eaabe"
+  default     = "ami-0f29c8402f8cce65c"
 }
 
 variable "ingress_cidr" {
